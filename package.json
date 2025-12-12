@@ -2,7 +2,7 @@
   "name": "kangkung-disease-detector",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YOUR-USERNAME.github.io/kangkung-disease-detector",
+  "homepage": "https://sitimriahq.github.io/kangkung-disease-detector/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
